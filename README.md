@@ -1,1 +1,10 @@
 # cloud_computing_project
+- [Frontend](http://github.com/farhadpa/sem_frontend)
+- [Total Attendance](https://github.com/farhadpa/sem_total_attendance)
+- [Sort](https://github.com/farhadpa/sem_sort)
+- [Send Email](https://github.com/farhadpa/sem_sendemail)
+- [Score](https://github.com/farhadpa/sem_score)
+- [Proxy](https://github.com/farhadpa/sem_proxy)
+- [Monitoring](https://github.com/farhadpa/sem_monitoring)
+- [MaxMin](https://github.com/farhadpa/sem_maxmin)
+- [Failure Risk](https://github.com/farhadpa/sem-failure-risk)
